@@ -1,0 +1,19 @@
+{
+	"name": "mediautil",
+	"version": "1.0.0",
+	"description": "util to handle media upload",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/AQSAMOHSIN/MediaUtil.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/AQSAMOHSIN/MediaUtil/issues"
+	},
+	"homepage": "https://github.com/AQSAMOHSIN/MediaUtil#readme"
+}
