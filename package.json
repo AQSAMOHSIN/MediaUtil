@@ -1,5 +1,5 @@
 {
-	"name": "mediautil",
+	"name": "mediauploadutil",
 	"version": "1.0.0",
 	"description": "util to handle media upload",
 	"main": "index.js",
